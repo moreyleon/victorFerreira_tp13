@@ -32,3 +32,4 @@ console.log(calculateBalances(operaciones));
 
 console.log(bankBalance("Fulanita","Perez"));
 
+//module.exports = bankBalance
